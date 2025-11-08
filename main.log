@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.23)  10 OCT 2025 19:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.23)  8 NOV 2025 14:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1187,7 +1187,7 @@ Package hyperref Info: Link coloring ON on input line 31.
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
-<setup/Pictures/A01.C01.01_Front_Billede.png, id=234, 10037.5pt x 2762.32pt>
+<setup/Pictures/A01.C01.01_Front_Billede.png, id=230, 10037.5pt x 2762.32pt>
 File: setup/Pictures/A01.C01.01_Front_Billede.png Graphic file (type png)
 <use setup/Pictures/A01.C01.01_Front_Billede.png>
 Package pdftex.def Info: setup/Pictures/A01.C01.01_Front_Billede.png  used on input line 34.
@@ -1343,7 +1343,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--1
 
 
 pdfTeX warning: pdflatex (file ../Evne-Ordbog/setup/Alfabeter/Helligt alfabet.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../Evne-Ordbog/setup/Alfabeter/Helligt alfabet.pdf, id=361, 495.14487pt x 70.73526pt>
+<../Evne-Ordbog/setup/Alfabeter/Helligt alfabet.pdf, id=356, 495.14487pt x 70.73526pt>
 File: ../Evne-Ordbog/setup/Alfabeter/Helligt alfabet.pdf Graphic file (type pdf)
 <use ../Evne-Ordbog/setup/Alfabeter/Helligt alfabet.pdf>
 Package pdftex.def Info: ../Evne-Ordbog/setup/Alfabeter/Helligt alfabet.pdf  used on input line 5.
@@ -1371,13 +1371,15 @@ Kapitel 6.
 
 [16]) (../Evne-Ordbog/GenerelleEvner/GenerelleEvnerIngenMagiIngenTohånds.tex
 
-[17] (../Evne-Ordbog/GenerelleEvner/Evner/6SansNiv1.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 2--32
+[17]
+Kapitel 7.
+(../Evne-Ordbog/GenerelleEvner/Evner/6SansNiv1.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 2--30
 
  []
 
-(../Evne-Ordbog/GenerelleEvner/Evner/6SansNiv2.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 2--34
+(../Evne-Ordbog/GenerelleEvner/Evner/Bonk.tex (../Evne-Ordbog/GenerelleEvner/Evner/BonkDesc.tex))
+Underfull \hbox (badness 10000) in paragraph at lines 1--32
 
  []
 
@@ -1386,55 +1388,39 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--34
 [18
 
 
-] (../Evne-Ordbog/GenerelleEvner/Evner/Bonk.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 2--36
+] (../Evne-Ordbog/GenerelleEvner/Evner/Brug af pistol.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 2--34
 
  []
 
-(../Evne-Ordbog/GenerelleEvner/Evner/Brug af pistol.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 2--38
+(../Evne-Ordbog/GenerelleEvner/Evner/Bære Person.tex (../Evne-Ordbog/GenerelleEvner/Evner/Bære PersonDesc.tex))
+Underfull \hbox (badness 10000) in paragraph at lines 1--36
 
  []
 
-(../Evne-Ordbog/GenerelleEvner/Evner/Bære Person.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 2--40
+(../Evne-Ordbog/GenerelleEvner/Evner/Førstehjælp.tex (../Evne-Ordbog/GenerelleEvner/Evner/FrøstehjælpDesc.tex))
+
+[19] (../Evne-Ordbog/GenerelleEvner/Evner/Minearbejder.tex (../Evne-Ordbog/GenerelleEvner/Evner/MinearbejderDesc.tex)) (../Evne-Ordbog/GenerelleEvner/Evner/Påfør Gift.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Samler.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 1.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 2.tex
+
+[20]) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 3.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Speciale.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 3--52
 
  []
 
-(../Evne-Ordbog/GenerelleEvner/Evner/Førstehjælp.tex)
+(../Evne-Ordbog/GenerelleEvner/Evner/Urtesamler.tex
 
-[19] (../Evne-Ordbog/GenerelleEvner/Evner/Læse og skrive.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 2--44
-
- []
-
-(../Evne-Ordbog/GenerelleEvner/Evner/Minearbejder.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Påfør Gift.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 1.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 2.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 3.tex
-
-[20]) (../Evne-Ordbog/GenerelleEvner/Evner/Speciale.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
-
- []
-
-) (../Evne-Ordbog/GenerelleEvner/Evner/Urtesamler.tex)) (../Evne-Ordbog/RuneGenstande.tex
+[21])) (../Evne-Ordbog/RuneGenstande.tex
 <../Evne-Ordbog/setup/Pictures/Nagerune.png, id=538, 144.54pt x 251.94125pt>
 File: ../Evne-Ordbog/setup/Pictures/Nagerune.png Graphic file (type png)
 <use ../Evne-Ordbog/setup/Pictures/Nagerune.png>
 Package pdftex.def Info: ../Evne-Ordbog/setup/Pictures/Nagerune.png  used on input line 5.
 (pdftex.def)             Requested size: 89.77927pt x 156.49014pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2--7
+Underfull \hbox (badness 10000) in paragraph at lines 1--7
 
  []
 
-
-
-[21]
-<../Evne-Ordbog/setup/Pictures/Elementrune.png, id=543, 112.42pt x 217.81375pt>
+<../Evne-Ordbog/setup/Pictures/Elementrune.png, id=539, 112.42pt x 217.81375pt>
 File: ../Evne-Ordbog/setup/Pictures/Elementrune.png Graphic file (type png)
 <use ../Evne-Ordbog/setup/Pictures/Elementrune.png>
 Package pdftex.def Info: ../Evne-Ordbog/setup/Pictures/Elementrune.png  used on input line 13.
@@ -1444,15 +1430,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--15
 
  []
 
-<../Evne-Ordbog/setup/Pictures/Jernrune.png, id=544, 140.525pt x 235.88126pt>
+
+
+[22 <../Evne-Ordbog/setup/Pictures/Nagerune.png>]
+<../Evne-Ordbog/setup/Pictures/Jernrune.png, id=546, 140.525pt x 235.88126pt>
 File: ../Evne-Ordbog/setup/Pictures/Jernrune.png Graphic file (type png)
 <use ../Evne-Ordbog/setup/Pictures/Jernrune.png>
 Package pdftex.def Info: ../Evne-Ordbog/setup/Pictures/Jernrune.png  used on input line 22.
 (pdftex.def)             Requested size: 93.22922pt x 156.49014pt.
-
-
-[22 <../Evne-Ordbog/setup/Pictures/Nagerune.png> <../Evne-Ordbog/setup/Pictures/Elementrune.png>]
-<../Evne-Ordbog/setup/Pictures/Dragerune.png, id=553, 180.4341pt x 211.2693pt>
+<../Evne-Ordbog/setup/Pictures/Dragerune.png, id=547, 180.4341pt x 211.2693pt>
 File: ../Evne-Ordbog/setup/Pictures/Dragerune.png Graphic file (type png)
 <use ../Evne-Ordbog/setup/Pictures/Dragerune.png>
 Package pdftex.def Info: ../Evne-Ordbog/setup/Pictures/Dragerune.png  used on input line 30.
@@ -1464,9 +1450,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--32
 
 
 
-[23 <../Evne-Ordbog/setup/Pictures/Jernrune.png> <../Evne-Ordbog/setup/Pictures/Dragerune.png (PNG copy)>]
+[23 <../Evne-Ordbog/setup/Pictures/Elementrune.png> <../Evne-Ordbog/setup/Pictures/Jernrune.png>]
 
-[24]
+[24 <../Evne-Ordbog/setup/Pictures/Dragerune.png (PNG copy)>]
 
 [25])
 \tf@thm=\write7
@@ -1482,20 +1468,20 @@ LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-11>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 98B34B0C65A577FD16AAB90923A536EE;6459.
+(rerunfilecheck)             Checksum: 9F3F1B4E294DF0B17DEEC0B2F2411777;6165.
  ) 
 Here is how much of TeX's memory you used:
- 37115 strings out of 468149
- 741049 string characters out of 5431082
- 1205976 words of memory out of 5000000
- 64793 multiletter control sequences out of 15000+600000
+ 37130 strings out of 468149
+ 741884 string characters out of 5431082
+ 1203976 words of memory out of 5000000
+ 64799 multiletter control sequences out of 15000+600000
  682411 words of font info for 134 fonts, out of 8000000 for 9000
  1146 hyphenation exceptions out of 8191
  121i,17n,124p,914b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (27 pages, 4423092 bytes).
+Output written on main.pdf (27 pages, 4422105 bytes).
 PDF statistics:
- 612 PDF objects out of 1000 (max. 8388607)
+ 608 PDF objects out of 1000 (max. 8388607)
  102 named destinations out of 1000 (max. 500000)
- 571 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 563 words of extra memory for PDF output out of 10000 (max. 10000000)
 

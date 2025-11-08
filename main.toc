@@ -31,19 +31,18 @@
 \contentsline {subsection}{Velsignet Våben}{15}{subsection*.31}%
 \contentsline {subsection}{Velsignet Legme}{17}{subsection*.32}%
 \contentsline {subsection}{Helligt Vand}{17}{subsection*.33}%
-\contentsline {chapter}{Generelle evner}{18}{chapter*.34}%
-\contentsline {section}{Evne beskrivelse}{18}{table.caption.35}%
-\contentsline {subsection}{6. sans Niv. 1}{18}{subsection*.36}%
-\contentsline {subsection}{6. sans Niv. 2}{19}{subsection*.37}%
-\contentsline {subsection}{Bonk}{19}{subsection*.38}%
-\contentsline {subsection}{Brug af pistol}{19}{subsection*.39}%
-\contentsline {subsection}{Bære person}{19}{subsection*.40}%
-\contentsline {subsection}{Førstehjælp}{20}{subsection*.41}%
-\contentsline {subsection}{Læse og skrive}{20}{subsection*.42}%
-\contentsline {subsection}{Minearbejder}{20}{subsection*.43}%
-\contentsline {subsection}{Påfør gift}{20}{subsection*.44}%
-\contentsline {subsection}{Slagsbror Niv. 1}{20}{subsection*.45}%
-\contentsline {subsection}{Slagsbror Niv. 2}{21}{subsection*.46}%
-\contentsline {subsection}{Slagsbror Niv. 2}{21}{subsection*.47}%
-\contentsline {subsection}{Speciale}{21}{subsection*.48}%
-\contentsline {subsection}{Urtesamler}{21}{subsection*.49}%
+\contentsline {chapter}{\numberline {7}Generelle evner}{18}{chapter.7}%
+\contentsline {section}{Evne beskrivelse}{18}{section*.35}%
+\contentsline {subsection}{6. sans}{18}{subsection*.36}%
+\contentsline {subsection}{Bonk}{19}{subsection*.37}%
+\contentsline {subsection}{Brug af pistol}{19}{subsection*.38}%
+\contentsline {subsection}{Bære person}{19}{subsection*.39}%
+\contentsline {subsection}{Førstehjælp}{19}{subsection*.40}%
+\contentsline {subsection}{Minearbejder}{20}{subsection*.41}%
+\contentsline {subsection}{Påfør gift}{20}{subsection*.42}%
+\contentsline {subsection}{Samler}{20}{subsection*.43}%
+\contentsline {subsection}{Slagsbror Niv. 1}{21}{subsection*.44}%
+\contentsline {subsection}{Slagsbror Niv. 2}{21}{subsection*.45}%
+\contentsline {subsection}{Slagsbror Niv. 3}{21}{subsection*.46}%
+\contentsline {subsection}{Speciale}{21}{subsection*.47}%
+\contentsline {subsection}{Urtesamler}{21}{subsection*.48}%
