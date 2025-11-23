@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1763127188.48759 "c:/Users/niels/Documents/GitHub/Skovfoged-regler/main.tex" "main.pdf" "main" 1763127191.85087 0
+["pdflatex"] 1763132361.44359 "c:/Users/niels/Documents/GitHub/Skovfoged-regler/main.tex" "main.pdf" "main" 1763132364.6975 0
   "../Evne-Ordbog/Ekstra LP/Ekstra LP Niv. 1.tex" 1757946765 54 89dd3a85b9d7c5123617a806108ebc52 ""
   "../Evne-Ordbog/Ekstra LP/Ekstra LP Niv. 2.tex" 1757946765 54 2af0a73ff058b8c72deabeef54f7774b ""
   "../Evne-Ordbog/Ekstra NK/Ekstra NK Niv. 1.tex" 1757886439 60 887729619453f26a0297a14b4adf473c ""
@@ -294,12 +294,12 @@
   "C:/Users/niels/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1750428951 2269 2de6c7a5fd634dfef00a960544463a38 ""
   "C:/Users/niels/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1750428951 20785 198a9cb2e04238d92c320d0d9edbd76a ""
   "c:/Users/niels/Documents/GitHub/Skovfoged-regler/main.tex" 1760511729 1868 69da3e9fcf1b0906377103a3fb6591fa ""
-  "main.aux" 1763127191 6627 cc0539a4844e2a3df964a83d3fd8dfbd "pdflatex"
-  "main.out" 1763127191 6165 9f3f1b4e294df0b17deec0b2f2411777 "pdflatex"
+  "main.aux" 1763132364 6627 cc0539a4844e2a3df964a83d3fd8dfbd "pdflatex"
+  "main.out" 1763132364 6165 9f3f1b4e294df0b17deec0b2f2411777 "pdflatex"
   "main.tex" 1760511729 1868 69da3e9fcf1b0906377103a3fb6591fa ""
-  "main.toc" 1763127191 3020 775d0198954948b5427f60c74c98020e "pdflatex"
+  "main.toc" 1763132364 3020 775d0198954948b5427f60c74c98020e "pdflatex"
   "mainstuff/Indledning.tex" 1760511730 2060 db234c928deabb18aa5c6a2743292286 ""
-  "mainstuff/Niv1.tex" 1760511730 1570 fee5c0fdc08e9e13daf4b0ceafc0a6e0 ""
+  "mainstuff/Niv1.tex" 1763132360 1545 f742d0440a605713ef8246b13cbbcc54 ""
   "mainstuff/Niv2.tex" 1760511730 1135 82fdd6bc57a3bf7ffaedfb4ec206f9d0 ""
   "mainstuff/Niv3.tex" 1760511730 1580 d87a815de02a1fe9029b2476c0aea61b ""
   "mainstuff/Niv4.tex" 1762610316 5010 f5c82e95032c17807cff56e272b2b19a ""
